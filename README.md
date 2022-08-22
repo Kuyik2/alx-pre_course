@@ -1,2 +1,1 @@
-My first readme
-my personal info
+My personal Info 
